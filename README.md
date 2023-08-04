@@ -1,0 +1,2 @@
+# Hades
+Bot do Discord
