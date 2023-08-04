@@ -1,2 +1,2 @@
-# Hades
+# Hades 👹👹👹
 Bot do Discord
